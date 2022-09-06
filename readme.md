@@ -6,7 +6,7 @@
   
 
  # Web designing page.
-This is a we designing landing page which is made using HTMl and CSS.
+This is a web designing landing page which is made using basics of HTMl and CSS.
 
 
 # Screenshot.
